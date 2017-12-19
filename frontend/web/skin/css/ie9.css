@@ -1,0 +1,7 @@
+﻿html * .ls-container *, html * .lazy-loading * {
+    filter: none !important
+}
+
+.quickfinder ul li .image.thumb .overlay {
+    display: none
+}
