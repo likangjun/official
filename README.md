@@ -8,9 +8,9 @@
 ### 网站截图
 
 前台
-![enter image description here](http://image.likangjun.com/resources/hstc/frontend.png)
+![enter image description here](http://demo.likangjun.com/blog-image/hstc/frontend.png)
 
 后台
-![enter image description here](http://image.likangjun.com/resources/hstc/backend.png)
+![enter image description here](http://demo.likangjun.com/blog-image/hstc/backend.png)
 
-![enter image description here](http://image.likangjun.com/resources/hstc/update.png)
+![enter image description here](http://demo.likangjun.com/blog-image/hstc/update.png)
